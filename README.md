@@ -7,7 +7,7 @@ ADD RES TO SOURCE PATH
 Classes:
 
 Game: Contains methods that adds data to make the game work properly
-GUI: Implemetents the UI
+GUI: Implement the UI
 Man: Holds file data for the hanged man
 Picture: Extends JLabel to change the picture easier
 Player: Contains data about players
