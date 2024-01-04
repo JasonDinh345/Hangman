@@ -1,0 +1,24 @@
+Player1:
+P1 Name:hally
+
+Player2:
+P2 Name:asdf
+
+Player3:
+P3 Name:
+
+Player4:
+P4 Name:hello
+
+Player5:
+P5 Name:
+
+Player6:
+P6 Name:
+
+Player7:
+P7 Name:
+
+Player8:
+P8 Name:
+
