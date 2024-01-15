@@ -17,7 +17,7 @@ Whether the user loses or not, it will reveal the hidden message and prompt the 
 During this project, I somewhat rushed since I wasn't as focused on making it the best it can be. but rather expirence I can use later.<br>
 But there are mulitple things in this progam that I can change if given the right time including:<br>
 <ul>
-  <li>Removing repeated code and makeing more methods to reduce the lines of code</li>
+  <li>Removing repeated code and making more methods to reduce the lines of code</li>
   <li>Implementing changing colors for whether you get the letters wrong or not</li>
   <li>Add new hangamn characters</li>
   <li>Adding a win and loss counter</li>
