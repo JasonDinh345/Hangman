@@ -1,14 +1,14 @@
 Player1:
-P1 Name:hally
+P1 Name:
 
 Player2:
-P2 Name:asdf
+P2 Name:
 
 Player3:
 P3 Name:
 
 Player4:
-P4 Name:hello
+P4 Name:
 
 Player5:
 P5 Name:
