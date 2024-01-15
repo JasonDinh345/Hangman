@@ -14,7 +14,7 @@ Answer wrong and the hangman will slowly appear.<br>
 <img src="https://cdn.discordapp.com/attachments/997573748297302090/1196356013801095188/image.png?ex=65b7545c&is=65a4df5c&hm=c23632139ba5b12aa63858d4b4f9854365e1965d6a9294002d5a763c059e1678&">
 Whether the user loses or not, it will reveal the hidden message and prompt the user to play again, go home, or select a new player. Play again and you might encounter a new hanged man<br>
 <h2>Things to improve on</h2>
-During this project, I somewhat rushed it wasn't as focused on making it the best it can be. but rather expirence I can use later.<br>
+During this project, I somewhat rushed since I wasn't as focused on making it the best it can be. but rather expirence I can use later.<br>
 But there are mulitple things in this progam that I can change if given the right time including:<br>
 <ul>
   <li>Removing repeated code and makeing more methods to reduce the lines of code</li>
