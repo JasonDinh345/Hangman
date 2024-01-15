@@ -20,6 +20,7 @@ But there are mulitple things in this progam that I can change if given the righ
   <li>Removing repeated code and makeing more methods to reduce the lines of code</li>
   <li>Implementing changing colors for whether you get the letters wrong or not</li>
   <li>Add new hangamn characters</li>
+  <li>Adding a win and loss counter</li>
 </ul>
 <h2>Learned</h2>
 <ul>
