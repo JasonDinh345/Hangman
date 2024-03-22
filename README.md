@@ -3,15 +3,15 @@
 Add res folder and main to source path<br>
 <br>
 <br>
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1196355045881544836/image.png?ex=65b75376&is=65a4de76&hm=ad727b831401a481b5b6fe4ee43e1be216448b9f93d47d21a6831fdbe34f7a9e&">
+<img src="preview_images/img1.png"">
 In this program, you can have 8 saved player slots that hold the name of what the user desires. If the user choosing to make a new character, the program with prompt them to offer a new name.<br>
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1196357860645408818/image.png?ex=65b75615&is=65a4e115&hm=ee6b225522fed58ecce25e0d73d018d8d1759e8d0037ecea68315068b87e03b8&">
+<img src="preview_images/img2.png">
 When a player has been selected, the user is given the choice to play the game, rename the player, or delete the save slot.
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1196355443505758228/image.png?ex=65b753d4&is=65a4ded4&hm=7e27d7a3d3b787ee43dca7498d40e22ba32c273e96e582396f7b585abd6763a5&">
+<img src="preview_images/img3.png">
 When the user enters a game, they will be prompted to enter the hidden phrase. Once they do, the game will act like any hangman game will. Enter one letter and it will reveal any letter that is in the hidden phrase<br>
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1196355958864105553/image.png?ex=65b7544f&is=65a4df4f&hm=340a61c7b957e699437aa832ff382745993cb98c888a64b84da448dd8474d4c9&">
+<img src="preview_images/img4.png">
 Answer wrong and the hangman will slowly appear.<br>
-<img src="https://cdn.discordapp.com/attachments/997573748297302090/1196356013801095188/image.png?ex=65b7545c&is=65a4df5c&hm=c23632139ba5b12aa63858d4b4f9854365e1965d6a9294002d5a763c059e1678&">
+<img src="preview_images/img5.png">
 Whether the user loses or not, it will reveal the hidden message and prompt the user to play again, go home, or select a new player. Play again and you might encounter a new hanged man<br>
 <h2>Things to improve on</h2>
 During this project, I somewhat rushed since I wasn't as focused on making it the best it can be. but rather expirence I can use later.<br>
